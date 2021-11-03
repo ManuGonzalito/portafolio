@@ -3903,7 +3903,7 @@ input[type=button].btn-block {
   border-color: #e9ecef #e9ecef #dee2e6;
 }
 .nav-tabs .nav-link.disabled {
-  color: #6c757d;
+  color: #241c34;
   background-color: transparent;
   border-color: transparent;
 }
@@ -10236,5 +10236,5 @@ form .row:first-child .floating-label-form-group {
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: #241c34;
 }
